@@ -1,0 +1,13 @@
+[package]
+name = "isize-vec"
+version = "0.1.0"
+authors = ["Kevin Robert Stravers <macocio@gmail.com>"]
+edition = "2018"
+keywords = ["sorted", "vector"]
+description = "isize sorted vector"
+license = "LGPL-3.0"
+
+[dev-dependencies]
+criterion = "0.3.1"
+quickcheck = "0.9.2"
+quickcheck_macros = "0.9.1"
