@@ -1,11 +1,12 @@
 [package]
 name = "isize-vec"
-version = "0.1.0"
+version = "0.1.1"
 authors = ["Kevin Robert Stravers <macocio@gmail.com>"]
 edition = "2018"
 keywords = ["sorted", "vector"]
 description = "isize sorted vector"
 license = "LGPL-3.0"
+repository = "https://github.com/BourgondAries/isize-vec"
 
 [dev-dependencies]
 criterion = "0.3.1"
